@@ -1,6 +1,6 @@
 # Hashmasks 
 
-This repository contains a copy of the smart contracts used by HashMasks](https://www.thehashmasks.com/). 
+This repository contains a copy of the smart contracts used by [HashMasks](https://www.thehashmasks.com/). 
 
 This is not the official repository of the HashMasks.
 
