@@ -1,7 +1,10 @@
-# Hashmask
+# Hashmasks 
 
-Smart contracts of the [HashMasks](https://www.thehashmasks.com/) (not official repository)
+This repository contains a copy of the smart contracts used by HashMasks](https://www.thehashmasks.com/). 
 
+This is not the official repository of the HashMasks.
+
+Each directory corresponds to a specific contract and is self-contained and are structured as follow:
 
 |Contract | Address  
 |---------|---------
